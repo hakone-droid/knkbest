@@ -3,5 +3,7 @@ Version : 5.9.1115
 ------------------------------
 What is New ? Change some codes + update Loader 
 + added the origin Copy KnKCheats! 
++ added KnKUpdater For Loader 
+Not Cheat ~ Cheat Update automatically
 Thanks For Use KnKCheats <3
 
